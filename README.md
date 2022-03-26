@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Peter 😇
 
 <!--
 **weirongw23/weirongw23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an undergraduate Computer Science student at the University of Michigan.
+
+
+I am based in Michigan and always open to meeting people working on interesting products.
