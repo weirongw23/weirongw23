@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an undergraduate Computer Science student at the University of Michigan.
-
-
-I am based in Michigan and always open to meeting people working on interesting products.
+I am an undergraduate Computer Science student at the University of Michigan. I am always open to meeting people working on interesting products.
