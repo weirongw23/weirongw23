@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an undergraduate Computer Science senior at the University of Michigan. I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to collaborate!
+I am an undergraduate Computer Science senior at the University of Michigan. I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to collaborate or share your expertise!
 
 ## Experiences
 | Company and Team  | Position | Date|
