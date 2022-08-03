@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an undergraduate Computer Science senior at the University of Michigan. I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to collaborate!
+I am an undergraduate Computer Science senior at the University of Michigan. I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to collaborate! [Website](https://www.weirongw.io) | [Email](mailto:weirongw@umich.edu)
 
 ## Experiences
-Software Engineering Intern, Uber (Summer 2022)
-Software Engineering Intern, Bubble (Winter 2022)
-Software Engineering Intern, IBM (Spring-Summer 2021)
-Front-End Software Engineer, UniFlow (Winter 2021)
-Product Management Intern, Aperio Systems
+- Software Engineering Intern, Uber (Summer 2022)
+- Software Engineering Intern, Bubble (Winter 2022)
+- Software Engineering Intern, IBM (Spring-Summer 2021)
+- Front-End Software Engineer, UniFlow (Winter 2021)
+- Product Management Intern, Aperio Systems (Summer 2020)
 
 ## Quick Facts
 - 🔭 I’m currently working on ...
