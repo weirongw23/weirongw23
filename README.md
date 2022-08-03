@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an undergraduate Computer Science senior at the University of Michigan. I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to collaborate or share your expertise!
+I am an undergraduate Computer Science senior at the University of Michigan. I've been a Software Engineering Intern at Uber, Bubble, and IBM. I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to collaborate or share your expertise!
 
+<!--
 ## Experiences
 | Company and Team  | Position | Date|
 | ------------- | ------------- | ------------- |
@@ -25,6 +26,7 @@ I am an undergraduate Computer Science senior at the University of Michigan. I a
 | IBM (Intelligent Information/Computer Vision)  | Software Engineering Intern  | Spring + Summer 2021 |
 | UniFlow  (Club Management Tools) | Front-End Software Engineer  | Winter 2021 |
 | Aperio Systems (Cybersecurity ML)  | Product Management Intern  | Summer 2020 |
+-->
 
 ## About
 - 🔭 I’m currently working on scaling new unreleased products within Uber, platform for tech recruiting, and an audio curation and creation tool for users around the world. I am also dabbling with photograpy, design, and making videos on YouTube :)
