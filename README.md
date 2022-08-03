@@ -21,7 +21,10 @@ I am an undergraduate Computer Science senior at the University of Michigan. I a
 | Company/Team  | Position | Date|
 | ------------- | ------------- | ------------- |
 | Uber (Maps Engineering)  | Software Engineering Intern  | Summer 2022 |
-| Bubble (Visual Programming Language + User Data)  | Content Cell  | Winter 2022 |
+| Bubble (Visual Programming Language + User Data)  | Software Engineering Intern  | Winter 2022 |
+| IBM (Intelligent Information/Computer Vision)  | Software Engineering Intern  | Spring + Summer 2021 |
+| UniFlow  | Front-End Software Engineer  | Winter 2021 |
+| Aperio Systems  | Product Management Intern  | Summer 2020 |
 
 ## Quick Facts
 - 🔭 I’m currently working on ...
