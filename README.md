@@ -26,7 +26,7 @@ I am an undergraduate Computer Science senior at the University of Michigan. I a
 | UniFlow  (Club Management Tools) | Front-End Software Engineer  | Winter 2021 |
 | Aperio Systems (Cybersecurity ML)  | Product Management Intern  | Summer 2020 |
 
-## Quick Facts
+## About
 - 🔭 I’m currently working on scaling new unreleased products within Uber, platform for tech recruiting, and an audio curation and creation tool for users around the world. I am also dabbling with photograpy, design, and making videos on YouTube :)
 - 🌱 I’m currently learning Java, Golang, and Systems Design.
 - 💬 Ask me about anything you'd like :)
