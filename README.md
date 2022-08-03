@@ -23,6 +23,10 @@ I am an undergraduate Computer Science senior at the University of Michigan. I a
 - Software Engineering Intern, IBM (Spring-Summer 2021)
 - Front-End Software Engineer, UniFlow (Winter 2021)
 - Product Management Intern, Aperio Systems (Summer 2020)
+| Company/Team  | Position | Date|
+| ------------- | ------------- | ------------- |
+| Uber (Maps Engineering)  | Software Engineering Intern  | Summer 2022 |
+| Bubble (Visual Programming Language + User Data)  | Content Cell  | Winter 2022 |
 
 ## Quick Facts
 - 🔭 I’m currently working on ...
