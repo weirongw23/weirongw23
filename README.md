@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am an undergraduate Computer Science senior at the University of Michigan. I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to collaborate! [Website](https://www.weirongw.io) | [Email](mailto:weirongw@umich.edu)
 
 ## Experiences
-| Company/Team  | Position | Date|
+| Company and Team  | Position | Date|
 | ------------- | ------------- | ------------- |
 | Uber (Maps Engineering)  | Software Engineering Intern  | Summer 2022 |
 | Bubble (Visual Programming Language + User Data)  | Software Engineering Intern  | Winter 2022 |
