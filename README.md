@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am an undergraduate Computer Science senior at the University of Michigan. I've been a Software Engineering Intern at Uber, Bubble, and IBM. I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to collaborate or share your expertise!
+Passionate about innovation and technology.
 
 <!--
 ## Experiences
@@ -27,10 +26,3 @@ I am an undergraduate Computer Science senior at the University of Michigan. I'v
 | UniFlow  (Club Management Tools) | Front-End Software Engineer  | Winter 2021 |
 | Aperio Systems (Cybersecurity ML)  | Product Management Intern  | Summer 2020 |
 -->
-
-## About
-- 🔭 I’m currently working on scaling new unreleased products within Uber, platform for tech recruiting, and an audio curation and creation tool for users around the world. I am also dabbling with photograpy, design, and making videos on YouTube :)
-- 🌱 I’m currently learning Java, Golang, and Systems Design.
-- 💬 Ask me about anything you'd like :)
-- 📫 How to reach me:  [Website](https://www.weirongw.io) | [Email](mailto:weirongw@umich.edu)
-- ⚡ Fun fact: Come see lots of magic tricks, me running through a marathon in your city, or cooking delicious authentic Chinese food (I've worked at 4 Chinese restaurants and co-founded one with my family).
