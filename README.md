@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Passionate about innovation and technology.
+Self-described "techpreneur" interested in computer science, mathematics, venture capital, and startup innovation. I am a Computer Science major and triple-minoring in Pure Mathematics, Statistics and Business. Visit [website_url] to view my portfolio of apps, books, projects, courses, videos, technical blogs, testimonials, and more!
 
+Want to get in touch? Contact me at weirongw@umich.edu or message me on LinkedIn! Go Blue!
 <!--
 ## Experiences
 | Company and Team  | Position | Date|
