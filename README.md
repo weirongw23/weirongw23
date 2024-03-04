@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Self-described "techpreneur" interested in computer science, mathematics, venture capital, and startup innovation. I am a Computer Science major and triple-minoring in Pure Mathematics, Statistics and Business. Visit [website_url] to view my portfolio of apps, books, projects, courses, videos, technical blogs, testimonials, and more!
+I am a Software Engineer at Microsoft interested in computer science, mathematics, venture capital, and startup innovation. Recently graduated from University of Michigan studying Computer Science, Pure Mathematics, and Statisitcs. Visit [my portfolio](weirongw23.github.io) to see apps, books, projects, courses, videos, technical blogs, testimonials, and more!
 
-Want to get in touch? Contact me at weirongw@umich.edu or message me on LinkedIn! Go Blue!
+Want to get in touch? Contact me at weirongw@umich.edu or message me on LinkedIn. Go Blue!
 <!--
 ## Experiences
 | Company and Team  | Position | Date|
