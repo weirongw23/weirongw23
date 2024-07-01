@@ -1,26 +1,10 @@
 # Hey, I'm Peter 😇
 
-<!--
-**weirongw23/weirongw23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 **Thanks for checking out my Github profile!**
 
-- 🔭 I am a Software Engineer working on Cloud + AI at Microsoft. 
+- ✨ I am a Software Engineer working on Cloud + AI at Microsoft. 
 - 🌱 I graduated from the University of Michigan with Summa Cum Laude studying Computer Science and Pure Mathematics.
-- 🚀 In my free time, I am developing next-generation software in the EdTech, FinTech, and for restaurants across the world. I love all things in the startup, business, and the VC world.
-- 📫 If you have any questions, want to chat, or just want to get to know me better, please feel free to message me at weirongw@umich.edu, check out [my portfolio](weirongw.io), or send a request on LinkedIn.
+- 🚀 In my free time, I am developing next-generation software in the EdTech, FinTech, and for restaurants across the world. I love all things in the startup, business, and the VC world!
+- 📫 If you have any questions, want to chat, or just want to get to know me better, please feel free to message me at weirongw@umich.edu, check out [my portfolio](weirongw.io), or send a request on LinkedIn :)
 
 Forever Go Blue 〽️
-
