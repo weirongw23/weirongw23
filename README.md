@@ -14,16 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Software Engineer at Microsoft interested in computer science, mathematics, venture capital, and startup innovation. Recently graduated from University of Michigan studying Computer Science, Pure Mathematics, and Statisitcs. Visit [my portfolio](weirongw23.github.io) to see apps, books, projects, courses, videos, technical blogs, testimonials, and more!
+I am a Software Engineer working on Cloud + AI at Microsoft. I love Computer Science, Pure Mathematics, and the beauty of startup innovation & venture capital.
 
-Want to get in touch? Contact me at weirongw@umich.edu or message me on LinkedIn. Go Blue!
-<!--
-## Experiences
-| Company and Team  | Position | Date|
-| ------------- | ------------- | ------------- |
-| Uber (Maps Engineering)  | Software Engineering Intern  | Summer 2022 |
-| Bubble (Visual Programming Language + User Data)  | Software Engineering Intern  | Winter 2022 |
-| IBM (Intelligent Information/Computer Vision)  | Software Engineering Intern  | Spring + Summer 2021 |
-| UniFlow  (Club Management Tools) | Front-End Software Engineer  | Winter 2021 |
-| Aperio Systems (Cybersecurity ML)  | Product Management Intern  | Summer 2020 |
--->
+Thanks for checking out my Github profile! If you have any questions, want to chat, or just want to get to know me better, please feel free to message me at weirongw@umich.edu, check out [my portfolio](weirongw.io), or message me on LinkedIn.
+
+Forever Go Blue 〽️
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=weirongw23.visitor-badge)
+
