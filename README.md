@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Software Engineer working on Cloud + AI at Microsoft. I love Computer Science, Pure Mathematics, and the beauty of startup innovation & venture capital.
+I am a Software Engineer working on Cloud + AI at Microsoft. I graduated from the University of Michigan with Summa Cum Laude studying Computer Science and Pure Mathematics. In my free time, I am developing next-generation software in the EdTech, FinTech, and for restaurants across the world. I love all things in the startup, business, and the VC world 🚀
 
 Thanks for checking out my Github profile! If you have any questions, want to chat, or just want to get to know me better, please feel free to message me at weirongw@umich.edu, check out [my portfolio](weirongw.io), or message me on LinkedIn.
 
 Forever Go Blue 〽️
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=weirongw23.visitor-badge)
 
